@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: LedBoardV1_01.PcbDoc   20/05/2014  16:49:13
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LedBoardV1_01.TXT
+EIA File   : LedBoardV1_01.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          142              12.69 Inch (322.33 mm)
+T2        125.98mil (3.19989mm)    Round          2                3.69 Inch (93.84 mm)
+---------------------------------------------------------------------------
+Totals                                            144              16.38 Inch (416.17 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

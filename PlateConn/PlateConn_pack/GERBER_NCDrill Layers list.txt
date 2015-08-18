@@ -1,0 +1,9 @@
+PlateConn.GTL     top layer
+PlateConn.GTO     top silkscreen
+
+PlateConn.GTP     top paste
+PlateConn.GTS     top soldermask 
+PlateConn.GM1     outline
+
+
+PlateConn.DRL     NCDrill

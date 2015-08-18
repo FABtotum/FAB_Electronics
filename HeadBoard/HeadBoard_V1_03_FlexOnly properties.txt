@@ -1,0 +1,29 @@
+Board type: FLEX
+
+Number of layers: 2
+
+Copper thickness: 35um (1oz)
+
+Flex thickness: 150um (or as thin as you can)
+
+Stiffener: yes 150 um for a total thickness of 300um (HeadBoard_V1_03_FlexOnly.GM3 shows the stiffener area)
+
+Soldermask color: BLACK
+
+Silkscreen: top and bottom
+
+Silkscreen color: White
+
+Finishing: GOLD
+
+Min trace width: 6mil
+
+Min clearance: 6 mil
+
+Min hole size: 12mil
+
+No blind or buried vias
+
+
+
+Dimensions: 601mmX41mm

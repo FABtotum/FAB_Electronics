@@ -1,0 +1,23 @@
+Board type: RIGID
+
+PCB thickness: 2mm
+
+copper thickness: 35um (1oz)
+
+number of layers: 4
+
+Soldermask color: Green
+
+Silkscreen: Yes only on top
+
+Silkscreen color: white
+
+Board Finishing: Spray Tin
+
+minimum trace width: 6mils
+
+minimum clereance: 6mils
+
+minimum drill diameter: 12mils
+
+no blind vias or buried holes

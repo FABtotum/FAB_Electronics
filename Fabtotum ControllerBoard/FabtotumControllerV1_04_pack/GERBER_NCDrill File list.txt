@@ -1,0 +1,13 @@
+FabtotumControllerV1_04.GTL     top layer
+FabtotumControllerV1_04.GBL     bottom layer
+FabtotumControllerV1_04.GP1     inner1 layer (negative)
+FabtotumControllerV1_04.GP2     inner2 layer (negative)
+FabtotumControllerV1_04.GTO     top silkscreen
+
+FabtotumControllerV1_04.GTP     top paste
+FabtotumControllerV1_04.GTS     top soldermask 
+FabtotumControllerV1_04.GBS     bottom soldermask 
+FabtotumControllerV1_04.GM1     outline
+
+
+FabtotumControllerV1_04.DRL     NCDrill

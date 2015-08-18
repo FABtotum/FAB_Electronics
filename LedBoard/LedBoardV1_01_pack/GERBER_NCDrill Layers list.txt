@@ -1,0 +1,11 @@
+LedBoard.GTL     top layer
+LedBoard.GBL     bottom layer
+LedBoard.GTO     top silkscreen
+
+LedBoard.GTP     top paste
+LedBoard.GTS     top soldermask 
+LedBoard.GBS     bottom soldermask 
+LedBoard.GM1     outline
+
+
+LedBoard.DRL     NCDrill

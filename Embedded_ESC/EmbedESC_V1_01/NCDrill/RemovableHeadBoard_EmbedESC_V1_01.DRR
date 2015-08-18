@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: RemovableHeadBoard_EmbedESC_V1_01.PcbDoc   04/06/2014  11:37:31
+---------------------------------------------------------------------------
+
+Layer Pair : Top Side to Bottom Side
+ASCII RoundHoles File : RemovableHeadBoard_EmbedESC_V1_01.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          396              34.41 Inch (873.97 mm)
+T2        19.68mil (0.49987mm)     Round          2                0.08 Inch (2.00 mm)
+T3        39.37mil (1mm)           Round          2                0.65 Inch (16.46 mm)
+T4        125.98mil (3.19989mm)    Round          5         NPTH   2.99 Inch (75.93 mm)
+T5        314.96mil (7.99998mm)    Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            406              38.12 Inch (968.35 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

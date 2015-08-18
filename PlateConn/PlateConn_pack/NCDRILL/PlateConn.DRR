@@ -1,0 +1,15 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PlateConn.PcbDoc   20/05/2014  19:37:09
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PlateConn.TXT
+EIA File   : PlateConn.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        118.11mil (2.99999mm)    Round          4         NPTH   3.15 Inch (80.09 mm)
+---------------------------------------------------------------------------
+Totals                                            4                3.15 Inch (80.09 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

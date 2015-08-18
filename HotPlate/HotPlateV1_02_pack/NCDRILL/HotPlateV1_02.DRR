@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: HotPlateV1_02.PcbDoc   22/05/2014  14:35:12
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HotPlateV1_02.TXT
+EIA File   : HotPlateV1_02.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          71               16.45 Inch (417.83 mm)
+T2        66.93mil (1.70002mm)     Round          4                6.14 Inch (155.98 mm)
+T3        452.76mil (11.5001mm)    Round          4                27.70 Inch (703.51 mm)
+T4        220.47mil (5.59994mm)    Round          8         NPTH   25.66 Inch (651.70 mm)
+---------------------------------------------------------------------------
+Totals                                            87               75.95 Inch (1929.02 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

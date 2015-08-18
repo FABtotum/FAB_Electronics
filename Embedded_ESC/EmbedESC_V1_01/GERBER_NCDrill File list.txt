@@ -1,0 +1,16 @@
+RemovableHeadBoard_EmbedESC_V1_01.GTL     top layer
+RemovableHeadBoard_EmbedESC_V1_01.GBL     bottom layer
+RemovableHeadBoard_EmbedESC_V1_01.GP1     inner1 layer (negative)
+RemovableHeadBoard_EmbedESC_V1_01.GP2     inner2 layer (negative)
+RemovableHeadBoard_EmbedESC_V1_01.GTO     top silkscreen
+
+RemovableHeadBoard_EmbedESC_V1_01.GTP     top paste
+RemovableHeadBoard_EmbedESC_V1_01.GBO     bottom silkscreen
+
+RemovableHeadBoard_EmbedESC_V1_01.GBP     bottom paste
+RemovableHeadBoard_EmbedESC_V1_01.GTS     top soldermask 
+RemovableHeadBoard_EmbedESC_V1_01.GBS     bottom soldermask 
+RemovableHeadBoard_EmbedESC_V1_01.GM1     outline
+
+
+RemovableHeadBoard_EmbedESC_V1_01.DRL     NCDrill

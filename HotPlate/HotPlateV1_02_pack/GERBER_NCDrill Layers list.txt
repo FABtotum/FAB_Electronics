@@ -1,0 +1,13 @@
+HotPlateV1_02.GTL     top layer
+HotPlateV1_02.GBL     bottom layer
+HotPlateV1_02.GTO     top silkscreen
+
+HotPlateV1_02.GBO     bottom silkscreen
+
+HotPlateV1_02.GBP     bottom paste
+HotPlateV1_02.GTS     top soldermask 
+HotPlateV1_02.GBS     bottom soldermask 
+HotPlateV1_02.GM1     outline
+
+
+HotPlateV1_02.DRL     NCDrill
